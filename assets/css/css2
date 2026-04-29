@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Karla';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf) format('truetype');
+}
