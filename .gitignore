@@ -1,5 +1,4 @@
-mirror.py
-rewrite.py
-rewrite2.py
-rewrite3.py
+*.py
+captured_original/
+captured_mirror/
 __pycache__/
