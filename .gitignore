@@ -1,4 +1,8 @@
 *.py
+__pycache__/
+render_stats.json
+comparison/
+comparison_v2/
 captured_original/
 captured_mirror/
-__pycache__/
+.DS_Store
